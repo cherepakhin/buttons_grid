@@ -53,7 +53,7 @@ File sizes after gzip:
 
 Содержимое build/ скопировать на сервер v.perm.ru в папку /var/www/buttons_grid/
 
-Доступ к приложению: http://v.perm.ru/buttons_grid/index.html
+Доступ к приложению: https://v.perm.ru/buttons_grid/index.html
 
 Этот проект сделан на основе простого проекта с React/Redux/Bootstrap [https://github.com/cherepakhin/redux-simple-app](https://github.com/cherepakhin/redux-simple-app). В нем же описание деталей работы с React/Redux и рабочие заметки (подглядывать в историю git).
 
@@ -372,7 +372,7 @@ varTest();
 #### Ссылки
 
 - [Диаграмма состояний](https://app.diagrams.net/?src=about#G1i8cVXJXj7xbnOIqtzitvihxvn_yiwOuJ#%7B%22pageId%22%3A%226vxvHjby1d88luMmcxHr%22%7D)<br/>
-- [Ошибка /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.28' not found](http://v.perm.ru/main/index.php/75-oshibka-lib-x86-64-linux-gnu-libc-so-6-version-glibc-2-28-not-found)
+- [Ошибка /lib/x86_64-linux-gnu/libc.so.6: version `GLIBC_2.28' not found](https://v.perm.ru/main/index.php/75-oshibka-lib-x86-64-linux-gnu-libc-so-6-version-glibc-2-28-not-found)
 - [Различия var, let, const и области видимости в javascript](https://v.perm.ru/main/index.php/homepage/79-razlichiya-var-let-const-v-js)
 
 #### TODO
