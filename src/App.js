@@ -22,6 +22,23 @@ class App extends React.Component { // receives props from index.js
           <div className="button-div mr-1 col-md-1 col-sm-1">Button10</div>
           <div className="button-div mr-1 col-md-1 col-sm-1">Button11</div>
           <div className="button-div mr-1 col-md-1 col-sm-1">Button12</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button13</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button14</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button15</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button16</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button17</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button18</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button19</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button20</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button21</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button22</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button23</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button24</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button25</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button26</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button27</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button28</div>
+          <div className="button-div mr-1 col-md-1 col-sm-1">Button29</div>
         </div>
       );
   }
