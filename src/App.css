@@ -1,0 +1,177 @@
+
+.App {
+  text-align: center;
+  border-radius: 0;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+  border-radius: 0;
+}
+
+.main-app-container .list-group-item {
+  display: flex;
+  padding-left: 0px;
+  padding-right: 12px;
+}
+
+.list-group-item .form-check {
+  width: 100%;
+}
+
+.list-group-item-action {
+  text-align: center;
+  padding-right: 0ch;
+
+  height: 1px;
+  float:center;
+
+  min-width: 10ch;
+  max-width: 10ch !important;
+}
+
+.list-group-item-action-open {
+  text-align: center;
+  margin-right: 1ch;
+
+  height: 1px;
+  float:center;
+
+  min-width: 8ch;
+  max-width: 8ch !important;
+}
+
+.list-group-item-action-about {
+  text-align: center;
+  margin-right: 1ch;
+
+  height: 1px;
+  float:center;
+
+  min-width: 8ch;
+  max-width: 8ch !important;
+}
+
+.list-group-item-action-delete {
+  text-align: center;
+  padding-right: 0ch;
+  margin-right: 1ch;
+
+  height: 1px;
+  float:center;
+
+  min-width: 7ch;
+  max-width: 7ch !important;
+}
+
+.list-group-item-action-event {
+  text-align: center;
+  padding-right: 1ch;
+  padding-left: 1ch;
+
+  clear: both;
+  height: 1px;
+  float:left;
+
+  min-width: 12ch;
+  max-width: 12ch !important;
+}
+
+.list-group-item-date {
+  left: -1ch;
+  right: 1ch;
+  min-width: 11ch;
+  max-width: 11ch !important;
+}
+
+.list-group-item-action span {
+  color: #c00;
+}
+
+.main-app-container .list-group-item:hover .list-group-item-action span {
+  display: inline;
+  cursor: pointer;
+}
+
+.list-group-item-action span:hover {
+  text-decoration: underline;
+}
+
+.list-group-item.vacancy-completed {
+  background-color: #f2f2f2;
+  border-width: 1px;
+}
+
+.list-group-item.vacancy-completed .form-check-label {
+  text-decoration: line-through;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.modal-content {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  border-radius: 0px !important;
+  -webkit-border: 0px !important;
+  -moz-border: 0px !important;
+  border: 0px !important;
+}
+
+.btn {
+  border-radius: 0px !important;
+}
+
+.btn-primary {
+   background-color: #18186A !important;
+}
+
+.form-control {
+    border-radius: 0px !important;
+}
+
+.list-group {
+    border-radius: 0px !important;
+}
+
+html body {
+    background-color: #f8f9fa;
+}
+
+.main-app-container {
+  padding-left: 0.5ch;
+  padding-top: 0.5ch;
+}
+
+.button-div {
+  background-color: #18186A;
+  color: white;
+  display: inline-block;
+  min-width: 10ch;
+  max-width: 10ch;
+  text-align: center;
+  line-height: 4ch;
+  font-size: 2ch;
+  margin-bottom: 0.5ch;
+}
