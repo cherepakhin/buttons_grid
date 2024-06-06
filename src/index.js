@@ -10,8 +10,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// statistic report
-//  see in console for detail
+// Statistic report. See in console for detail
 // Time to First Byte (TTFB)
 // First Contentful Paint (FCP)
 // Largest Contentful Paint (LCP)
