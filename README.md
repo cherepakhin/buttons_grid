@@ -2,9 +2,6 @@
 
 Освовить "резиновую"  сетку Bootstrap. Использованы bootstrap, react-bootstrap (см. package.json)
 
-main - основная ветка
-![branch_main.png](doc/branch_main.png)
-
 ### Тестирование
 
 ````shell
