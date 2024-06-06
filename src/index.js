@@ -10,4 +10,12 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-reportWebVitals();
+// statistic report
+//  see in console for detail
+// Time to First Byte (TTFB)
+// First Contentful Paint (FCP)
+// Largest Contentful Paint (LCP)
+// Cumulative Layout Shift (CLS)
+// https://wanago.io/2022/02/07/measuring-performance-web-vitals-react/
+
+reportWebVitals(console.log)
