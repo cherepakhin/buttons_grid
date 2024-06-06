@@ -32,6 +32,8 @@ yarn build-prod
 
 __PUBLIC_URL=/buttons_grid/__ в package.json указывает по какому пути приложение будет доступно на web-сервере
 
+Статические файлы из папки __public__ будут скопированы __build__.
+
 Собранный проект будет в build/ :
 
 ````shell
