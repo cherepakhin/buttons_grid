@@ -7,7 +7,7 @@ class App extends React.Component { // receives props from index.js
         //  "md-0" Margin Down (mD!) (https://react-bootstrap.github.io/docs/layout/grid)
         // this is comment OUTside Component. For comment INside Component see below.
         // path for test appView.node.props.className
-        // mr - margin-right, mr-1 = 4 px
+        // mr - margin-right, mr-1 = margin-right = 4 px, 1 = 4px
         // col-md-1 col-sm-1 - 1 column on middle device, 1 column on small device
         // button-div - see style in App.css
         <div className="main-app-container">
